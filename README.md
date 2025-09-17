@@ -13,8 +13,4 @@ The goal of this project is to **streamline and automate key stages of the Softw
 - Automates repetitive SDLC tasks such as requirement tracking, testing workflow, and reporting.
 - Generates structured outputs and logs for better project management.
 - Lightweight Python implementation for quick deployment.
-## 🚀 Getting Started
-### 1. Clone the Repository
-```bash
-git clone https://github.com/pavetha2006/IBM-Project-.git
-cd IBM-Project-
+
